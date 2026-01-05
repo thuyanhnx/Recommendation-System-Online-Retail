@@ -1,7 +1,7 @@
 # Recommendation System on Online Retail
 
-Dataset: https://archive.ics.uci.edu/dataset/352/online+retail
-Tech Stacks: PySpark, Python, Spark MLlib (Tokenizer, StopWordsRemover, HashingTF, IDF)
+- Dataset: https://archive.ics.uci.edu/dataset/352/online+retail
+- Tech Stacks: PySpark, Python, Spark MLlib (Tokenizer, StopWordsRemover, HashingTF, IDF)
 
 I led this project and collaborated with two other members for the Big Data course in the MS in Data Science program at the University of Michigan – Dearborn. This project explores and compares the performance of **three recommendation approaches—content-based filtering, item-based collaborative filtering, and user-based collaborative filtering—**using real-world online retail transaction data. The objective is to generate top-3 personalized product recommendations for each customer and evaluate how different modeling strategies perform under the same experimental setup.
 
